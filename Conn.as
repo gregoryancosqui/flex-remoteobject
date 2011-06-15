@@ -4,7 +4,7 @@ package controller.Class
 	 **Classe responsável para a conexão com o AMFPHP
 	 **@Autor: Gregory Ancosqui
 	 **@Data: 07/07/2010
-	 **@Versão: 1.1 
+	 **@Versão: 1.1.1
 	 */
 	import mx.collections.ArrayCollection;
 	import mx.controls.Alert;
